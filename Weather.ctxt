@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\r\n\ A\ model\ of\ the\ weather\ in\ the\ simulation.\r\n\ Different\ types\ of\ weather\ can\ occur\ in\ the\ simulation.\r\n\ Each\ weathertype\ causes\ certain\ animals\ to\ behave\ differently\r\n\r\n\ @author\ Colin\ Billhardt\ and\ Thom\ Treebus\r\n\ @version\ 2021.03.03\r\n
+comment1.params=
+comment1.target=Weather()
+comment1.text=\r\n\ Create\ a\ weather\ object\ and\ set\ all\ the\ weather\ types\ to\ false.\r\n
+comment2.params=
+comment2.target=void\ updateWeather()
+comment2.text=\r\n\ Method\ to\ update\ the\ weather\ randomly.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getWeatherStatus()
+comment3.text=\r\n\ Check\ what\ the\ weather\ status\ is\ and\ return\ a\ string\r\n\ @return\ A\ string\ that\ describes\ the\ weather\ status\r\n
+comment4.params=
+comment4.target=boolean\ isRaining()
+comment4.text=\r\n\ @return\ If\ it\ currently\ raining\ or\ not.\r\n
+comment5.params=
+comment5.target=boolean\ isFoggy()
+comment5.text=\r\n\ @return\ If\ it\ is\ currently\ foggy\ or\ not.\r\n
+comment6.params=
+comment6.target=boolean\ isLightning()
+comment6.text=\r\n\ @return\ If\ there\ is\ currently\ lightning\ or\ not.\r\n
+numComments=7

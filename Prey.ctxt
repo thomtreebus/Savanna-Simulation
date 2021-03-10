@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Prey
+comment0.text=\r\n\ A\ class\ that\ controls\ certain\ behaviours\ exhibited\ by\ prey\ in\ the\ simulation.\r\n\r\n\ @author\ Colin\ Billhardt\ and\ Thom\ Treebus\r\n\ @version\ 2021.03.03\r\n
+comment1.params=field\ location
+comment1.target=Prey(Field,\ Location)
+comment1.text=\r\n\ Creates\ a\ new\ prey.\r\n\ @param\ field\ The\ simulation\ field.\r\n\ @param\ location\ The\ location\ where\ the\ prey\ is\ created\r\n
+comment2.params=
+comment2.target=boolean\ isEDIBLE()
+comment2.text=\r\n\ @return\ Whether\ a\ prey\ can\ be\ eaten\ by\ other\ animal's\ or\ not.\r\n
+comment3.params=
+comment3.target=boolean\ getHUNTING_VISIBILITY_REQUIRED()
+comment3.text=\r\n\ @return\ If\ the\ prey\ needs\ to\ be\ able\ to\ see\ in\ order\ to\ hunt\ for\ food.\r\n
+numComments=4

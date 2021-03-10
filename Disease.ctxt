@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Disease
+comment0.text=\r\n\ A\ class\ representing\ a\ disease\ in\ the\ simulation.\r\n\ Animals\ can\ be\ infected\ with\ disease\ and\ spread\ it\ to\ other\ animals.\r\n\ Once\ an\ animal\ is\ infected,\ they\ have\ a\ limited\ number\ of\ steps\ left\ before\ they\ die.\r\n\ @author\ Colin\ Billhardt\ and\ Thom\ Treebus\r\n\ @version\ 2021.03.03\r\n
+comment1.params=
+comment1.target=Disease()
+comment1.text=\r\n\ Create\ a\ disease\ object.\r\n
+comment2.params=
+comment2.target=int\ getDaysRemaning()
+comment2.text=\r\n\ @return\ The\ number\ of\ steps\ the\ animal\ has\ left\ before\ they\ die\ of\ disease\r\n
+comment3.params=
+comment3.target=void\ decrementStepsRemaining()
+comment3.text=\r\n\ Reduce\ the\ number\ of\ steps\ the\ infected\ animal\ has\ left\ to\ live.\r\n
+comment4.params=
+comment4.target=void\ incrementDiseaseDeaths()
+comment4.text=\r\n\ Increment\ the\ number\ of\ deaths\ caused\ by\ disease\ by\ 1.\r\n
+comment5.params=
+comment5.target=int\ getDiseaseDeaths()
+comment5.text=\r\n\ @return\ The\ number\ of\ disease\ deaths.\r\n
+numComments=6

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\r\n\ A\ class\ to\ keep\ track\ of\ the\ time\ that\ has\ elapsed\ in\ the\ simulation.\r\n\ Time\ is\ measured\ in\ hours\ (24\ hour\ format),\ days,\ months,\ and\ years\r\n\r\n\ @author\ Colin\ Billhardt\ and\ Thom\ Treebus\r\n\ @version\ 2021.03.03\r\n
+comment1.params=
+comment1.target=Time()
+comment2.params=
+comment2.target=void\ incrementHour()
+comment2.text=\r\n\ Increment\ the\ current\ hour\ by\ 1\ to\ signify\ 1\ hour\ passing.\r\n
+comment3.params=
+comment3.target=void\ incrementDay()
+comment3.text=\r\n\ Increment\ the\ number\ of\ days\ by\ 1\ to\ signify\ a\ day\ passing.\r\n
+comment4.params=
+comment4.target=boolean\ isDay()
+comment4.text=\r\n\ @return\ True\ if\ it\ is\ currently\ day\ time\r\n
+comment5.params=
+comment5.target=int\ getHour()
+comment5.text=\r\n\ @return\ The\ number\ of\ hours\ the\ simulation\ has\ been\ running.\r\n
+comment6.params=
+comment6.target=int\ getDay()
+comment6.text=\r\n\ @return\ The\ number\ of\ days\r\n
+comment7.params=
+comment7.target=int\ getMonth()
+comment7.text=\r\n\ @return\ The\ number\ of\ months.\r\n
+numComments=8

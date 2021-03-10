@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Grass
+comment0.text=\r\n\ A\ simple\ model\ of\ grass.\r\n\ Grass\ can\ age,\ spread,\ and\ die.\r\n\r\n\ @author\ Colin\ Billhardt\ and\ Thom\ Treebus\r\n\ @version\ 2021.03.03\r\n
+comment1.params=field\ location
+comment1.target=Grass(Field,\ Location)
+comment1.text=\r\n\ Create\ a\ new\ grass\ patch\ and\ place\ it\ on\ the\ field\r\n\ @param\ field\ The\ field\ currently\ occupied.\r\n\ @param\ location\ The\ location\ within\ the\ field.\r\n
+comment2.params=field\ location
+comment2.target=Plant\ newPlantObject(Field,\ Location)
+comment2.text=\r\n\ @param\ field\ The\ simulation\ field.\r\n\ @param\ location\ Location\ to\ create\ the\ new\ grass.\r\n\ @return\ The\ new\ grass\ object\r\n
+comment3.params=
+comment3.target=int\ getMAX_AGE()
+comment3.text=\r\n\ @return\ The\ grass'\ max\ age\r\n
+comment4.params=
+comment4.target=int\ getFOOD_VALUE()
+comment4.text=\r\n\ @return\ The\ grass'\ food\ value\r\n
+comment5.params=
+comment5.target=int\ getEDIBLE_AGE()
+comment5.text=\r\n\ @return\ The\ grass'\ edible\ age\r\n
+comment6.params=
+comment6.target=double\ getSPREADING_PROBABILITY()
+comment6.text=\r\n\ @return\ The\ grass'\ spreading\ probability\r\n
+numComments=7
